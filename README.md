@@ -5,6 +5,7 @@ A real-time object detection system for Raspberry Pi using YOLOv11, with support
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![YOLOv11](https://img.shields.io/badge/YOLO-v11-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![](./assets/IMG_1437.jpeg)
 
 ## Features
 
